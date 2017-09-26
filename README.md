@@ -4,6 +4,7 @@ A curated list of awesome EOS frameworks, libraries, software and resources.
 ## EOS.io
 - [Official Documentation](https://eosio.github.io/eos/) - Developing on EOS
 - [EOS Repository](https://github.com/EOSIO/eos) - EOS source on GitHub
+- [EOS: An Introduction - Black Edition](http://iang.org/papers/EOS_An_Introduction-BLACK-EDITION.pdf) - EOS Whitepaper
 
 ## Tools
 - [eos-wallet-app](https://github.com/EOSIO/eos-wallet-app) - Web wallet for EOS
