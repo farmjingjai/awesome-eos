@@ -10,10 +10,7 @@ A curated list of awesome EOS frameworks, libraries, software and resources.
 - [eos-wallet-app](https://github.com/EOSIO/eos-wallet-app) - Web wallet for EOS
 
 
-## Development
-
-### Python
-- [eosapi](https://github.com/Netherdrake/py-eos-api) - EOS api wrapper for Python 3.6+
+## Language Support
 
 ### JavaScript
 - [eosjs](https://github.com/EOSIO/eosjs) - General purpose library for the EOS blockchain.
@@ -22,8 +19,10 @@ A curated list of awesome EOS frameworks, libraries, software and resources.
 - [eosjs-fcbuffer](https://github.com/EOSIO/eosjs-ecc) - Serialization library for native data structures
 - [eosjs-json](https://github.com/EOSIO/eosjs-json) - JSON schemas for EOS interfaces
 
+### Python
+- [eosapi](https://github.com/Netherdrake/py-eos-api) - EOS api wrapper for Python 3.6+
 
-# Contributing to Awesome EOS
+## Contributing to Awesome EOS
 
 Your contributions are always welcome!
 
