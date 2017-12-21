@@ -8,6 +8,7 @@ A curated list of awesome EOS frameworks, libraries, software and resources.
 
 ## Tools
 - [eos-wallet-app](https://github.com/EOSIO/eos-wallet-app) - Web wallet for EOS
+- [eos-docker](https://github.com/Someguy123/eos-docker) - someguy123's EOS in a Box
 
 
 ## Language Support
@@ -22,8 +23,10 @@ A curated list of awesome EOS frameworks, libraries, software and resources.
 ### Python
 - [eosapi](https://github.com/Netherdrake/py-eos-api) - EOS api wrapper for Python 3.6+
 
-## Contributing to Awesome EOS
+#### Contributing to Awesome EOS
 
 Your contributions are always welcome!
 
-I will keep some pull requests open if I'm not sure whether those libraries are awesome, you could [vote for them](https://github.com/Netherdrake/awesome-eos/pulls) by adding :+1: to them. Pull requests will be merged when their votes reach **5**.
+I will keep some pull requests open if I'm not sure whether those libraries are awesome, you could 
+[vote for them](https://github.com/Netherdrake/awesome-eos/pulls) by adding :+1: to them.
+Pull requests will be merged when their votes reach 3.
