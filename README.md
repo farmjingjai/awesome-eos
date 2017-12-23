@@ -1,10 +1,10 @@
 # Awesome EOS
-A curated list of awesome EOS frameworks, libraries, software and resources.
+A curated list of awesome [EOS](https://github.com/EOSIO/eos) frameworks, libraries, software and resources.
 
 ## EOS.io
-- [Official Documentation](https://eosio.github.io/eos/) - Developing on EOS
-- [EOS Repository](https://github.com/EOSIO/eos) - EOS source on GitHub
-- [EOS: An Introduction - Black Edition](http://iang.org/papers/EOS_An_Introduction-BLACK-EDITION.pdf) - EOS Whitepaper
+- [EOS Wiki](https://github.com/EOSIO/eos/wiki) - High Level EOS Software Overview
+- [EOS Documentation](https://eosio.github.io/eos/) - Lower Level API Documentation
+- [EOS: An Introduction - Black Edition](http://iang.org/papers/EOS_An_Introduction-BLACK-EDITION.pdf) - Ian Grigg's Whitepaper
 
 ## Tools
 - [eos-wallet-app](https://github.com/EOSIO/eos-wallet-app) - Web wallet for EOS
@@ -25,6 +25,8 @@ A curated list of awesome EOS frameworks, libraries, software and resources.
 
 ### Scala
 - [eos-scala-rpc-api](https://github.com/nsjames/EOS-Scala-RPC-API) - EOS api wrapper for Scala
+
+-----
 
 #### Contributing to Awesome EOS
 
