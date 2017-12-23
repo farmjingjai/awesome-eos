@@ -23,6 +23,9 @@ A curated list of awesome EOS frameworks, libraries, software and resources.
 ### Python
 - [eosapi](https://github.com/Netherdrake/py-eos-api) - EOS api wrapper for Python 3.6+
 
+### Scala
+- [eos-scala-rpc-api](https://github.com/nsjames/EOS-Scala-RPC-API) - EOS api wrapper for Scala
+
 #### Contributing to Awesome EOS
 
 Your contributions are always welcome!
